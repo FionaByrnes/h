@@ -6020,29 +6020,6 @@ paths:
         '500':
           description: Error occurred
       x-public: true
-  /combos/nz-employment-location-codes:
-    get:
-      tags:
-        - Combo
-      summary: Get NzEmploymentLocationCodes
-      description: 'New Zealand only, Returns all nz employment location codes. Used in Workplace'
-      operationId: GetNzEmploymentLocationCodes
-      responses:
-        '200':
-          description: OK
-          content:
-            application/json:
-              schema:
-                type: array
-                items:
-                  $ref: '#/components/schemas/NzEmploymentLocationCodeItem'
-        '401':
-          description: Unauthorized
-        '403':
-          description: Forbidden
-        '500':
-          description: Error occurred
-      x-public: true
   /combos/nz-main-activities-prior-to-study:
     get:
       tags:
@@ -10217,10 +10194,6 @@ components:
           type: integer
           description: 'Indicates that the Workplace is a training delivery location. When LocationId exists, the Location should be updated when changes occur to Workplace address. This field is only editable from the Location endpoint.'
           format: int32
-        NzEmploymentLocationCodeId:
-          type: integer
-          description: New Zealand only. Employment Location Code. See Combo NzEmploymentLocationCode
-          format: int32
         LastModifiedTimeStamp:
           type: string
           description: Date when the Workplace was last modified
@@ -10870,13 +10843,6 @@ components:
           $ref: '#/components/schemas/NzLastSchoolAttended'
         Relationships:
           $ref: '#/components/schemas/NzLastSchoolAttendedRelationships'
-    NzEmploymentLocationCodeItem:
-      type: object
-      properties:
-        Data:
-          $ref: '#/components/schemas/NzEmploymentLocationCode'
-        Relationships:
-          $ref: '#/components/schemas/NzEmploymentLocationCodeRelationships'
     NzMainActivityPriorToStudyItem:
       type: object
       properties:
@@ -13219,8 +13185,6 @@ components:
           type: array
           items:
             $ref: '#/components/schemas/Disability'
-        LastSchoolAttendedCountry:
-          $ref: '#/components/schemas/NzStandardCodeCountry'
         VisaType:
           $ref: '#/components/schemas/NzVisaType'
         Countries:
@@ -13252,10 +13216,6 @@ components:
           type: string
           description: Year the learner last attended secondary school
           format: Year value
-        LastSchoolAttendedCountryId:
-          type: integer
-          description: NZSC Country
-          format: int32
         SecondaryQualificationId:
           type: integer
           description: See combo NzSecondaryQualifications
@@ -15057,8 +15017,6 @@ components:
           $ref: '#/components/schemas/AccreditationType'
         HeadOfficeWorkplace:
           $ref: '#/components/schemas/WorkplaceBasic'
-        NzEmploymentLocationCode:
-          $ref: '#/components/schemas/NzEmploymentLocationCode'
     WorkplaceStreetAddress:
       type: object
       properties:
@@ -16232,18 +16190,6 @@ components:
         Description:
           type: string
     NzLastSchoolAttendedRelationships:
-      type: object
-    NzEmploymentLocationCode:
-      type: object
-      properties:
-        NzEmploymentLocationCodeId:
-          type: integer
-          format: int32
-        Code:
-          type: string
-        Description:
-          type: string
-    NzEmploymentLocationCodeRelationships:
       type: object
     NzMainActivityPriorToStudy:
       type: object
@@ -17724,16 +17670,6 @@ components:
           type: string
           description: Email Address of international next of kin
           format: '100'
-    NzStandardCodeCountry:
-      type: object
-      properties:
-        NzStandardCodeCountryId:
-          type: integer
-          format: int32
-        Code:
-          type: string
-        Description:
-          type: string
     LearnerNzDemographicsPriorEducationAchievement:
       type: object
       properties:
