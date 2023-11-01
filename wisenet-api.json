@@ -98,9 +98,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -137,9 +134,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -173,12 +167,6 @@
                 }
               }
             }
-          },
-          "404": {
-            "description": "Agent not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -221,12 +209,6 @@
                 }
               }
             }
-          },
-          "404": {
-            "description": "Agent not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -271,9 +253,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -342,9 +321,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -423,9 +399,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -462,9 +435,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -498,12 +468,6 @@
                 }
               }
             }
-          },
-          "404": {
-            "description": "Checklist not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -549,12 +513,6 @@
                 }
               }
             }
-          },
-          "404": {
-            "description": "Checklist not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -639,9 +597,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -686,9 +641,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -757,9 +709,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -793,12 +742,6 @@
                 }
               }
             }
-          },
-          "404": {
-            "description": "Course not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -918,9 +861,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -957,9 +897,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -993,12 +930,6 @@
                 }
               }
             }
-          },
-          "404": {
-            "description": "Course Enrolment not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -1041,12 +972,6 @@
                 }
               }
             }
-          },
-          "404": {
-            "description": "Course Enrolment not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -1168,9 +1093,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -1204,12 +1126,6 @@
                 }
               }
             }
-          },
-          "404": {
-            "description": "Course Offer not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -1243,12 +1159,6 @@
                 }
               }
             }
-          },
-          "404": {
-            "description": "Course Offer not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -1334,9 +1244,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -1370,12 +1277,6 @@
                 }
               }
             }
-          },
-          "404": {
-            "description": "Credential not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -1408,9 +1309,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -1444,12 +1342,6 @@
                 }
               }
             }
-          },
-          "404": {
-            "description": "Document not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -1545,9 +1437,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -1595,12 +1484,6 @@
                 }
               }
             }
-          },
-          "404": {
-            "description": "ElementEnrolment not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -1645,9 +1528,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -1681,12 +1561,6 @@
                 }
               }
             }
-          },
-          "404": {
-            "description": "Filenote not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -1729,9 +1603,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -1800,9 +1671,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -1839,9 +1707,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred."
           }
         },
         "x-public": true
@@ -1893,9 +1758,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -1927,12 +1789,6 @@
                 }
               }
             }
-          },
-          "404": {
-            "description": "Invoice not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -1973,9 +1829,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -1998,12 +1851,6 @@
         "responses": {
           "204": {
             "description": "NoContent"
-          },
-          "404": {
-            "description": "Invoice not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -2065,9 +1912,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -2104,9 +1948,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -2151,12 +1992,6 @@
                 }
               }
             }
-          },
-          "404": {
-            "description": "LanguageLiteracyNumeracy not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -2281,9 +2116,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -2320,9 +2152,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -2356,12 +2185,6 @@
                 }
               }
             }
-          },
-          "404": {
-            "description": "Learner not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -2632,9 +2455,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -2751,9 +2571,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -2790,9 +2607,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -2826,12 +2640,6 @@
                 }
               }
             }
-          },
-          "404": {
-            "description": "Learner not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -3070,9 +2878,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -3189,9 +2994,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -3228,9 +3030,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -3264,12 +3063,6 @@
                 }
               }
             }
-          },
-          "404": {
-            "description": "Learner not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -3500,9 +3293,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -3619,9 +3409,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -3658,9 +3445,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -3694,12 +3478,6 @@
                 }
               }
             }
-          },
-          "404": {
-            "description": "Learner not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -3938,9 +3716,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -4009,9 +3784,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -4048,9 +3820,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -4087,9 +3856,6 @@
           },
           "404": {
             "description": "Learner Position not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -4135,9 +3901,6 @@
           },
           "404": {
             "description": "Learner Position not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -4165,9 +3928,6 @@
           },
           "404": {
             "description": "Learner Position not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -4244,9 +4004,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -4283,9 +4040,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -4354,9 +4108,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -4393,9 +4144,6 @@
           },
           "404": {
             "description": "Location not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -4441,9 +4189,6 @@
           },
           "404": {
             "description": "Location not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -4632,9 +4377,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -4671,9 +4413,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -4710,9 +4449,6 @@
           },
           "404": {
             "description": "Opportunity not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -4758,9 +4494,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -4829,9 +4562,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -4868,9 +4598,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -4907,9 +4634,6 @@
           },
           "404": {
             "description": "Promotion not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -4955,9 +4679,6 @@
           },
           "404": {
             "description": "Promotion not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -5059,9 +4780,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -5098,9 +4816,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -5137,9 +4852,6 @@
           },
           "404": {
             "description": "Sales Contact not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -5185,9 +4897,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -5264,9 +4973,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -5366,9 +5072,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -5418,9 +5121,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -5496,9 +5196,6 @@
           },
           "404": {
             "description": "Tag not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -5587,9 +5284,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -5666,9 +5360,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -5705,9 +5396,6 @@
           },
           "404": {
             "description": "Unit not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -5784,9 +5472,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -5823,9 +5508,6 @@
           },
           "404": {
             "description": "Unit Offer not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -5911,9 +5593,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -5950,9 +5629,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -5989,9 +5665,6 @@
           },
           "404": {
             "description": "Unit Enrolment not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -6072,9 +5745,6 @@
           },
           "403": {
             "description": "Forbidden"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -6135,9 +5805,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -6174,9 +5841,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -6213,9 +5877,6 @@
           },
           "404": {
             "description": "Workplace not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -6261,9 +5922,6 @@
           },
           "404": {
             "description": "Workplace not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -6369,9 +6027,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -6504,9 +6159,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -6531,9 +6183,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -6558,9 +6207,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -6585,9 +6231,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -6612,9 +6255,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -6639,9 +6279,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -6666,9 +6303,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -6801,9 +6435,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -6963,9 +6594,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -6990,9 +6618,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7017,9 +6642,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7071,9 +6693,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7098,9 +6717,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7125,9 +6741,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7233,9 +6846,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7260,9 +6870,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7287,9 +6894,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7314,9 +6918,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7341,9 +6942,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7368,9 +6966,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7395,9 +6990,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7422,9 +7014,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7449,9 +7038,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7476,9 +7062,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7530,9 +7113,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7557,9 +7137,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7584,9 +7161,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7611,9 +7185,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7638,9 +7209,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7665,9 +7233,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7719,9 +7284,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7746,9 +7308,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7773,9 +7332,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7827,9 +7383,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7854,9 +7407,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -7881,9 +7431,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8016,9 +7563,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8043,9 +7587,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8070,9 +7611,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8097,9 +7635,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8124,9 +7659,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8151,9 +7683,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8178,9 +7707,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8205,9 +7731,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8232,9 +7755,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8259,9 +7779,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8286,9 +7803,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8475,9 +7989,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8502,9 +8013,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8529,9 +8037,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8568,9 +8073,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8618,9 +8120,6 @@
           },
           "404": {
             "description": "Next of Kin Relationship not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8645,9 +8144,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8672,9 +8168,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8699,9 +8192,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8726,9 +8216,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8753,9 +8240,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8780,9 +8264,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8807,9 +8288,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8840,9 +8318,6 @@
           },
           "403": {
             "description": "Forbidden"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8867,9 +8342,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8912,9 +8384,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -8993,9 +8462,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -9020,9 +8486,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -9047,9 +8510,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -9074,9 +8534,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -9101,9 +8558,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -9128,9 +8582,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -9155,9 +8606,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -9281,9 +8729,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -9308,9 +8753,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -9335,9 +8777,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -9362,9 +8801,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -9434,9 +8870,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -9461,9 +8894,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -9488,9 +8918,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -9515,9 +8942,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -9542,9 +8966,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -9569,9 +8990,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -9596,9 +9014,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -9650,9 +9065,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -9677,9 +9089,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -9704,9 +9113,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -9731,9 +9137,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -9758,9 +9161,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10190,9 +9590,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10217,9 +9614,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10244,9 +9638,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10271,9 +9662,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10298,9 +9686,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10325,9 +9710,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10352,9 +9734,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10379,9 +9758,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10406,9 +9782,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10433,9 +9806,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10568,9 +9938,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10595,9 +9962,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10622,9 +9986,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10649,9 +10010,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10676,9 +10034,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10703,9 +10058,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10730,9 +10082,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10757,9 +10106,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10784,9 +10130,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10811,9 +10154,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10838,9 +10178,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10865,9 +10202,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10904,9 +10238,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10954,9 +10285,6 @@
           },
           "404": {
             "description": "Visa not found"
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
@@ -10991,9 +10319,6 @@
                 }
               }
             }
-          },
-          "500": {
-            "description": "Error occurred"
           }
         },
         "x-public": true
